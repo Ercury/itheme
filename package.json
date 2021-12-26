@@ -1,0 +1,30 @@
+{
+    "name": "itheme",
+    "displayName": "Itheme",
+    "publisher": "ercury",
+    "description": "a color theme created by a noob",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "ercury",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ercury-color-theme.json"
+            }
+        ]
+    },
+    "dependencies": {
+        "vsce": "^2.5.3"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/sxei/vscode-plugin-demo"
+	}
+}
