@@ -22,7 +22,7 @@
 				"label": "Itheme-ayu",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ayu-color-theme.json"
-			},
+			}
 		]
 	},
 	"dependencies": {
