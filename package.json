@@ -22,7 +22,27 @@
 				"label": "Itheme-ayu",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ayu-color-theme.json"
-			}
+			},
+			{
+				"label": "Itheme-cityLights",
+				"uiTheme": "vs-dark",
+				"path": "./themes/city-lights-color-theme.json"
+			},
+			{
+				"label": "Itheme-oneDark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/one-dark-pro-color-theme.json"
+			},
+			{
+				"label": "Itheme-monkaiNight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/monokai-night-color-theme.json"
+			},
+			{
+				"label": "Itheme-materialOcean",
+				"uiTheme": "vs-dark",
+				"path": "./themes/material-ocean-color-theme.json"
+			},
 		]
 	},
 	"dependencies": {
